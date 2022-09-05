@@ -42,7 +42,7 @@ turbidity_max = 1.0  # in NTU unit (Total Suspended Solids - TSS)
 # 2. pH safe range
 ph_value_max = 9.5
 ph_value_min = 6.5
-base_ph_value = 4.5  # should be 7
+base_ph_value = 6  # should be 7
 
 
 # 4. temperature

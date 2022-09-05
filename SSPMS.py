@@ -274,7 +274,7 @@ class MainWindow(QMainWindow):
 
         # set up main window
         self.setGeometry(30, 600, 300, 150)
-        self.setWindowTitle('Water Quality')
+        self.setWindowTitle('Swimming PoolWater Quality')
 
         # Init QDockWidget objects        
         self.connectionDock = ConnectionDock(self.mc)

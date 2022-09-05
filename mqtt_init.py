@@ -27,7 +27,7 @@ manag_time = 10  # sec
 topic_alarm = topic_prefix + "alarm"
 
 # SENSORS:
-device_id = '1r2v9r5g84g'  # get it on the device sticker on purchase
+device_id = '1bfdn7fduh'  # get it on the device sticker on purchase
 
 
 # 1. Chlorine level
